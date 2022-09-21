@@ -5,6 +5,11 @@
     --white-color: #e7e7e7;
 }
 
+.logofont {
+    font-family: 'Candal', sans-serif;
+    
+}
+
 body{
     color:var(--dark-color)
 }
